@@ -18,7 +18,7 @@
 ### 2. Clone dự án
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/cminh0929/chatbox
 cd chatbox
 ```
 
